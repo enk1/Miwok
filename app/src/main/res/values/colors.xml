@@ -26,8 +26,12 @@
     <!-- Background color for the numbers category -->
     <color name="category_numbers">#FD8E09</color>
 
+
     <!-- Background color for the family members category -->
     <color name="category_family">#379237</color>
+    <color name="family_words_background">#379237</color>
+    <color name="family_font">#99c1da</color>
+    <color name="family_icon_background">#fff7da</color>
 
     <!-- Background color for the colors category -->
     <color name="category_colors">#8800A0</color>
